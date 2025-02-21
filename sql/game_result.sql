@@ -1,0 +1,1 @@
+CREATE TYPE GameResult AS ENUM ('WIN', 'DRAW', 'LOSE');
